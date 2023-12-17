@@ -1,0 +1,23 @@
+export const CREATE = 'CREATE';
+export const UPDATE = 'UPDATE';
+export const DELETE = 'DELETE';
+export const GET_ALL = 'GET_ALL';
+export const GET_BY_SEARCH = 'GET_BY_SEARCH';
+export const GET_POST = 'GET_POST';
+export const GET_RECOMMENDED_POSTS = 'GET_RECOMMENDED_POSTS';
+export const LIKE = 'LIKE';
+export const END_LOADING = 'END_LOADING';
+export const START_LOADING = 'START_LOADING';
+export const END_LOADING_POST = 'END_LOADING_POST';
+export const START_LOADING_POST = 'START_LOADING_POST';
+export const END_LOADING_RECOMMENDED_POSTS = 'END_LOADING_RECOMMENDED_POSTS';
+export const START_LOADING_RECOMMENDED_POSTS = 'START_LOADING_RECOMMENDED_POSTS';
+export const END_LOADING_COMMENTS = 'END_LOADING_COMMENTS';
+export const START_LOADING_COMMENTS = 'START_LOADING_COMMENTS';
+export const GET_USER_POSTS = 'GET_USER_POSTS';
+export const COMMENT = 'COMMENT';
+export const GET_COMMENTS = 'GET_COMMENTS';
+
+export const AUTH = 'AUTH';
+export const LOGOUT = 'LOGOUT';
+export const GET_USER = 'GET_USER';
